@@ -28,7 +28,7 @@ Happy Rolling!
 <li>Atomically Correct Time from an internet clock
 <li>Haiku Generator
 <li>Magic Eight Ball
-<li>Collatz Conjecture
+<li>~~Collatz Conjecture~~
 <li>Reverse a string
 <li>Count the Vowels in a string
 <li>Count the words in a string
