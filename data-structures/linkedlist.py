@@ -23,11 +23,11 @@ class SinglyLinkedList:
         cur = prev.next
 
         while cur is not None:
-            prev = prev.next
+            prev = cur
             cur = cur.next
         
-        prev.next = None
-        del cur
+        del prev
+        
 
     def print(self):
         ptr = self.head
@@ -52,4 +52,19 @@ def main():
     n2.next = n3
     #now we can see that n1 is the head
     #and n3 is the last element because it points to nowhere
-        
+
+def test():
+    l = SinglyLinkedList()
+    nums = [4,8,15,16,23,42]
+    for i in nums:
+        l.push(i)
+    
+    print("Before pop")
+    l.print()
+
+    l.pop()
+
+    print("After pop")
+    l.print()
+
+
