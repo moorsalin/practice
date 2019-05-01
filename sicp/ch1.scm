@@ -1,3 +1,4 @@
+#lang sicp
 ;;; start guile with M-x run-guile
 ;;; C x C e to execute line
 ;;; C x C s to save file
