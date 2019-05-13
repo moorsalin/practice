@@ -11,8 +11,8 @@
 - stuff I might have an academic interest in
 
 ## math and puzzle
-- gifts I've recieved over the years
-- really cheap gifts
+- aquried over the years with pocket change
+- make for good gifts
 - puzzles are exciting in a way
 
 ## teachyourselfcs
