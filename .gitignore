@@ -119,3 +119,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 sicp/ch1.bak
+programming/rustlings/*.pdb
