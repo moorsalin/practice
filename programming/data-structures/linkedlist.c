@@ -23,6 +23,18 @@ struct node* BuildOneTwoThree() {
     return h;
 }
 
+int Length(struct node* head) {
+    struct node* current = head;
+    int count = 0;
+    
+    while (current != NULL) {
+        count++;
+        current = current->next;
+    }
+    
+    return count;
+}
+
 int main() {
     printf("Yes I can write hello world in C\n");
     return 0;
