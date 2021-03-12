@@ -1,5 +1,5 @@
 # Teach Myself Computer Science
-Loosely following the guide here (teachyourselfcs.com)[https://teachyourselfcs.com/]
+Loosely following the guide here [teachyourselfcs.com](https://teachyourselfcs.com/)
 Saved exercises for different books
 
 - [clrs] Introduction to Algorithms
